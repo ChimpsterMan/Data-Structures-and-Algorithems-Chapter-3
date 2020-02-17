@@ -1,0 +1,10 @@
+//I wanted to make it generic for fun :)
+class Stack <T> {
+  private T list;
+  private int top;
+  
+  public Stack(){
+    list = T[2];
+    
+  }
+}

@@ -1,0 +1,4 @@
+public interface Generic {
+  public abstract Generic deepCopy();
+  public abstract String toString(); 
+}
